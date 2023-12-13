@@ -29,6 +29,8 @@ ssize_t getline(char **lineptr, size_t *n, FILE *stream);
 /**opcodes.**/
 void (*get_opcode_func(char *opc))(stack_t **stack, unsigned int line_number);
 
+FILE *check_input(int argc, char *argv[]);
+void start_monty_var(FILE *fs);
 
 int monty_sch(char *s, char c);
 char *_strtok(char *s, char *d);
