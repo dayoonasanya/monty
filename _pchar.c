@@ -1,4 +1,4 @@
-#include "types.h"
+#include "monty.h"
 
 void _monty_pstr(stack_t **stack, unsigned int monty_number);
 void _monty_pchar(stack_t **stack, unsigned int monty_number);

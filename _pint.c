@@ -1,4 +1,4 @@
-#include "types.h"
+#include "monty.h"
 
 void _monty_pint(stack_t **stack, unsigned int monty_number);
 

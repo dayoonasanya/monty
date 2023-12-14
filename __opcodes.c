@@ -1,4 +1,4 @@
-#include "types.h"
+#include "monty.h"
 
 void (*get_opcode_func(char *opc))(stack_t **stack, unsigned int line_number);
 
