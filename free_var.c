@@ -1,4 +1,4 @@
-#include "types.h"
+#include "monty.h"
 
 info_t var_s;
 void start_monty_var(FILE *fs);

@@ -1,4 +1,4 @@
-#include "types.h"
+#include "monty.h"
 
 void free_monty_stack(stack_t *head);
 
