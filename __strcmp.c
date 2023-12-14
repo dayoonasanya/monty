@@ -1,4 +1,4 @@
-#include "types.h"
+#include "monty.h"
 
 int _strcmp(char *s1, char *s2);
 

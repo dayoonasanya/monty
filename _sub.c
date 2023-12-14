@@ -1,4 +1,4 @@
-#include "types.h"
+#include "monty.h"
 
 void _monty_sub(stack_t **stack, unsigned int monty_number);
 void _monty_nop(stack_t **stack, unsigned int monty_number);
