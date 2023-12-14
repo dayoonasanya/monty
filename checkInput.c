@@ -1,4 +1,4 @@
-#include "types.h"
+#include "monty.h"
 
 FILE *check_input(int argc, char *argv[]);
 
