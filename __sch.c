@@ -1,4 +1,4 @@
-#include "types.h"
+#include "monty.h"
 
 int monty_sch(char *s, char c);
 
